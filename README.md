@@ -1,0 +1,1 @@
+# stack-full-app-nextjs
